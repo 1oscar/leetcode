@@ -64,7 +64,9 @@ print Solution().twoSum(list([3, 2, 3]), 6)
 
 """
 时间复杂度： O(n)
-空间 O(1)
+空间 
+Solution: O(1) 
+Solution_best: O(n)
 
 right answer 
 
